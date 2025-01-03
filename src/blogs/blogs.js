@@ -95,7 +95,7 @@ However, editing the human genome comes with significant risks, particularly in 
     excerpt: "Explore how genomic data is revolutionizing precision medicine and personalized healthcare.",
     author: "Sophia Miller",
     date: "February 15, 2024",
-    image: "/",
+    image: "/dat.png",
     content: `Genomic data has become a cornerstone of precision medicine, enabling doctors to customize treatments based on an individual's genetic profile. By analyzing a patient's genome, healthcare providers can predict which treatments are most likely to be effective, leading to more personalized and efficient care.
 
 The integration of genomic data with medical treatments has already shown promise in oncology, where targeted therapies are designed to attack cancer cells based on their specific genetic mutations. Additionally, genomic data can help identify patients at risk for certain diseases, enabling early intervention and preventative care. While the benefits of precision medicine are clear, challenges remain in terms of data privacy, accessibility, and the high cost of genomic sequencing.`
@@ -106,7 +106,7 @@ The integration of genomic data with medical treatments has already shown promis
     excerpt: "A discussion on the ethical challenges surrounding human cloning and its potential implications.",
     author: "William Clark",
     date: "February 20, 2024",
-    image: "/images/human-cloning.jpg",
+    image: "/clone.avif",
     content: `Human cloning remains one of the most controversial topics in genetic engineering. While scientists have successfully cloned animals, such as sheep, the prospect of cloning humans raises significant ethical concerns. Cloning would involve creating a genetically identical organism, which could result in questions about individuality, consent, and the potential for exploitation.
 
 Opponents argue that cloning could lead to the commodification of human life, while proponents suggest it could offer solutions for infertility or organ donation. Regardless, human cloning presents profound ethical dilemmas that society must address before it becomes a reality. The development of cloning technology is advancing rapidly, but it remains to be seen whether its ethical, legal, and social implications can be fully reconciled.`
